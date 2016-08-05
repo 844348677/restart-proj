@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1470021048 source:/home/liuh/workspace/restart-proj/main.cpp
+	<iostream>
+	"api/ctp/ThostFtdcMdApi.h"
+	"api/ctp/ThostFtdcTraderApi.h"
+	"api/ctp/ThostFtdcUserApiDataType.h"
+	"api/ctp/ThostFtdcUserApiStruct.h"
+	"MyCTPMdSpi.cpp"
+
+1466650729 /home/liuh/workspace/restart-proj/api/ctp/ThostFtdcMdApi.h
+	"ThostFtdcUserApiStruct.h"
+
+1466650729 /home/liuh/workspace/restart-proj/api/ctp/ThostFtdcUserApiStruct.h
+	"ThostFtdcUserApiDataType.h"
+
+1466650729 /home/liuh/workspace/restart-proj/api/ctp/ThostFtdcUserApiDataType.h
+
+1466650729 /home/liuh/workspace/restart-proj/api/ctp/ThostFtdcTraderApi.h
+	"ThostFtdcUserApiStruct.h"
+
+1470037632 /home/liuh/workspace/restart-proj/MyCTPMdSpi.h
+
+1470037988 /home/liuh/workspace/restart-proj/MyCTPMdSpi.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	"MyCTPMdSpi.h"
+	"api/ctp/ThostFtdcMdApi.h"
+
